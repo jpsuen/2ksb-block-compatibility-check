@@ -5,9 +5,9 @@ Additionally, after the Moodle theme upgrade in late June 2016 each page had a n
 
 To Install
 
-1. Download this repository to your local computer
+1. Download (Click Green "Clone or Download" button then download the zip file) this repository to your local computer and extract the folder
 2. Open Chrome and visit: chrome://extensions/
 3. Click Developer Mode
 4. Click Load unpacked extension...
-5. Select parent directory for this repo and click Open
+5. Select parent directory (2ksb-block-compatibility-check/)  for this repo and click Open
 6. Enjoy a cleaner 2ksb interface
