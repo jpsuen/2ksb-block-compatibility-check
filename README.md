@@ -3,7 +3,13 @@ This Chrome Extension was added to end the annoying "Compatibility Checks" that 
 
 Additionally, after the Moodle theme upgrade in late June 2016 each page had a new floating "Student Support" Button.  This button is distracting and can also cover importnat information, especially when using zoom above 100%.  This extension removes the floating student support button on every page.
 
-To Install
+<h2>To Install</h2>
+
+<h3>EASY WAY</h3>
+
+Go here: https://chrome.google.com/webstore/detail/2ksb-disable-system-check/cocehjgnandpgphfccjefcnmlelchkih
+
+<h3>HARD WAY</h3>
 
 1. Download (Click Green "Clone or Download" button then download the zip file) this repository to your local computer and extract the folder
 2. Open Chrome and visit: chrome://extensions/
