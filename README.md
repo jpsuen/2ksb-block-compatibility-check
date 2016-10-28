@@ -1,7 +1,7 @@
 # 2ksb-block-compatibility-check
 This Chrome Extension was added to end the annoying "Compatibility Checks" that keep coming up on the 2KSB website.  The extension works by preventing the browser from loading the javascript element that contains the compatibility checker.
 
-Additionally, after the Moodle theme upgrade in late June 2016 each page had a new floating "Student Support" Button.  This button is distracting and can also cover importnat information, especially when using zoom above 100%.  This extension removes the floating student support button on every page.
+Additionally, after the Moodle theme upgrade in late June 2016 each page had a new floating "Student Support" Button.  This button is distracting and can also cover important information, especially when using zoom above 100%.  This extension removes the floating student support button on every page.
 
 You can also click the Icon for the Chrome Extension to toggle on and off the Student Support Button.
 
